@@ -1,0 +1,11 @@
+IMDb Rating,Year,Niche,Mainstream,Genres_Action,Genres_Adventure,Genres_Animation,Genres_Biography,Genres_Comedy,Genres_Crime,Genres_Documentary,Genres_Drama,Genres_Family,Genres_Fantasy,Genres_Game-Show,Genres_History,Genres_Horror,Genres_Music,Genres_Musical,Genres_Mystery,Genres_News,Genres_Reality-TV,Genres_Romance,Genres_Sci-Fi,Genres_Short,Genres_Sport,Genres_Thriller,Genres_War,Title Type_movie,Title Type_short,Title Type_tvSeries
+6.4,2021,True,False,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,True,False,False
+6.9,2011,True,False,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False
+6.1,2007,False,False,0,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,False,False
+7.5,2021,True,False,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,True,False,False
+8.2,2021,False,False,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,True
+7.9,2019,True,False,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,True
+7.4,2021,False,False,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,True,False,False
+5.6,2022,False,False,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,True,False,False
+6.5,2018,True,False,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,False,False
+7.4,2021,False,False,0,1,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,True,False,False

@@ -1,0 +1,13 @@
+Const (Identifica)
+Your Rating (Pasar a (me gusta o no me gusta))
+Date Rated
+Title (Identifica)
+URL (Borrar)
+Title Type
+IMDb Rating
+Runtime (mins)
+Year (Brinda información)
+Genres (Brinda información)
+Num Votes (No aporta mucho)
+Release Date (Brinda información)
+Directors (Brinda información)
